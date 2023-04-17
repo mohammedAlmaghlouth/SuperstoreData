@@ -2,7 +2,7 @@
 
 
 ## Description
-A national level retail company, called fil Superstores, bearing logo "ù", is looking for data scientists to help them understand the possible patterns that customers follow, and possible options that can be considered for improving their profit in the future. Currently, the company owns and manages many warehouses and retail stores, which are located across KSA. The company has provided the relevant data that they have collected in their retail stores.
+A national level retail company, called fil Superstores, is looking for data scientists to help them understand the possible patterns that customers follow, and possible options that can be considered for improving their profit in the future. Currently, the company owns and manages many warehouses and retail stores, which are located across KSA. The company has provided the relevant data that they have collected in their retail stores.
 
 ## Data Description
 - Store ID: A unique ID for every store.
@@ -33,9 +33,3 @@ A national level retail company, called fil Superstores, bearing logo "ù", is l
 3. Run the data analysis scripts.
 4. Review the generated results and recommendations.
 
-## Contributors
-- John Doe [@johndoe](https://github.com/johndoe)
-- Jane Smith [@janesmith](https://github.com/janesmith)
-
-## License
-This project is licensed under the [MIT License](LICENSE).
