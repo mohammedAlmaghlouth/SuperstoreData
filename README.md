@@ -1,8 +1,5 @@
 # ISE 291 Project - Data Science on fil Superstores Data
 
-![fil Superstores Logo](fil_logo.png)
-
-**Due Date:** Aug 8, 2021.
 
 ## Description
 A national level retail company, called fil Superstores, bearing logo "ù", is looking for data scientists to help them understand the possible patterns that customers follow, and possible options that can be considered for improving their profit in the future. Currently, the company owns and manages many warehouses and retail stores, which are located across KSA. The company has provided the relevant data that they have collected in their retail stores.
