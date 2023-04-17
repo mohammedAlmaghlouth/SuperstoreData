@@ -3,6 +3,7 @@
 
 ## Description
 A national level retail company, called fil Superstores, is looking for data scientists to help them understand the possible patterns that customers follow, and possible options that can be considered for improving their profit in the future. Currently, the company owns and manages many warehouses and retail stores, which are located across KSA. The company has provided the relevant data that they have collected in their retail stores.
+*Project work as 4 team members*
 
 ## Data Description
 - Store ID: A unique ID for every store.
